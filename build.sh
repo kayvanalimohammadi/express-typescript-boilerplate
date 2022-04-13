@@ -1,0 +1,1 @@
+docker image build -f docker/Dockerfile -t web:v1.0.0 .
